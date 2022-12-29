@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/memorycard/static/css/main.106fe2db.css",
+    "main.js": "/memorycard/static/js/main.309925d0.js",
+    "static/media/tiger.png": "/memorycard/static/media/tiger.11d9efb8f5bde18828db.png",
+    "static/media/elephant.png": "/memorycard/static/media/elephant.85d7287bde5889216987.png",
+    "static/media/dog.png": "/memorycard/static/media/dog.9a153b2d9df661ff7cf7.png",
+    "static/media/landscape10.png": "/memorycard/static/media/landscape10.f03e8e2e18f6f59af6ed.png",
+    "static/media/cat.png": "/memorycard/static/media/cat.042221e7892959c913f7.png",
+    "static/media/eagle.png": "/memorycard/static/media/eagle.bd277dbe7e881551796c.png",
+    "index.html": "/memorycard/index.html",
+    "main.106fe2db.css.map": "/memorycard/static/css/main.106fe2db.css.map",
+    "main.309925d0.js.map": "/memorycard/static/js/main.309925d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.106fe2db.css",
+    "static/js/main.309925d0.js"
+  ]
+}
